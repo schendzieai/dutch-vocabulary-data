@@ -1,4 +1,4 @@
-[  
+[
   {
     "id": "geluk",
     "name": "Geluk",
@@ -6,9 +6,9 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "geluk_deel_2",
+    "id": "geluk-deel-2",
     "name": "Geluk deel 2",
-    "color": "blue",
+    "color": "amber",
     "createdAt": "2024-01-01T00:00:00.000Z"
   }
 ]
