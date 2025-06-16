@@ -11,4 +11,10 @@
     "color": "blue",
     "createdAt": "2024-01-01T00:00:00.000Z"
   }
+  {
+    "id": "geluk deel 3",
+    "name": "Geluk deel 3",
+    "color": "yellow",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
 ]
