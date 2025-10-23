@@ -22,5 +22,17 @@
     "name": "China deel 2",
     "color": "green",
     "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+  "id": "Televisie",
+  "name": "Televisie",
+  "color": "purple",
+  "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+  "id": "Televisie deel 2",
+  "name": "Televisie deel 2",
+  "color": "red",
+  "createdAt": "2024-01-01T00:00:00.000Z"
   }
 ]
