@@ -33,6 +33,18 @@
   "id": "Televisie deel 2",
   "name": "Televisie deel 2",
   "color": "red",
+  "createdAt": "2024-01-01T00:00:00.000Z",
+  },
+  {
+  "id": "Ruimte",
+  "name": "Ruimte",
+  "color": "rose",
+  "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+  "id": "Ruimte deel 2",
+  "name": "Ruimte deel 2",
+  "color": "pink",
   "createdAt": "2024-01-01T00:00:00.000Z"
   }
 ]
