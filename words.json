@@ -918,8 +918,7 @@
   { "id": "tv_37", "dutch": "de screentest", "translation": "Een proefopname om te zien of iemand geschikt is.", "example": "Ze deed een screentest voor de nieuwe serie.", "category": "Televisie deel 2", "isFavorite": false, "correctCount": 0, "totalAttempts": 0, "createdAt": "2024-01-01T00:00:00Z" },
   { "id": "tv_38", "dutch": "de set", "translation": "De plek waar opnames worden gemaakt.", "example": "Op de set werd alles klaargezet voor de opname.", "category": "Televisie deel 2", "isFavorite": false, "correctCount": 0, "totalAttempts": 0, "createdAt": "2024-01-01T00:00:00Z" },
   { "id": "tv_39", "dutch": "de verslaggever", "translation": "Iemand die verslag doet van gebeurtenissen.", "example": "De verslaggever stond live bij het stadion.", "category": "Televisie deel 2", "isFavorite": false, "correctCount": 0, "totalAttempts": 0, "createdAt": "2024-01-01T00:00:00Z" },
-  { "id": "tv_40", "dutch": "visueel", "translation": "Wat te maken heeft met wat je kunt zien.", "example": "De film had een sterke visuele stijl.", "category": "Televisie deel 2", "isFavorite": false, "correctCount": 0, "totalAttempts": 0, "createdAt": "2024-01-01T00:00:00Z" }
-
+  { "id": "tv_40", "dutch": "visueel", "translation": "Wat te maken heeft met wat je kunt zien.", "example": "De film had een sterke visuele stijl.", "category": "Televisie deel 2", "isFavorite": false, "correctCount": 0, "totalAttempts": 0, "createdAt": "2024-01-01T00:00:00Z" },
   {
     "id": "ruimte_1",
     "dutch": "de atmosfeer",
