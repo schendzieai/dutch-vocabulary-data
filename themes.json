@@ -58,5 +58,17 @@
   "name": "Mysterie deel 2",
   "color": "blue",
   "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+  "id": "Buurt",
+  "name": "Buurt",
+  "color": "green",
+  "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+  "id": "Buurt deel 2",
+  "name": "Buurt deel 2",
+  "color": "yellow",
+  "createdAt": "2024-01-01T00:00:00.000Z"
   }
 ]
